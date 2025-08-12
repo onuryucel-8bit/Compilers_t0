@@ -1,0 +1,20 @@
+//theory of computation
+https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&index=2
+https://www.youtube.com/watch?v=gWj7WZdk5-g&list=PL6KMWPQP_DM9Y7IgaEWa_OHAl3RkAQwqH&index=1
+
+ruslan :: https://ruslanspivak.com/lsbasi-part1
+https://compilers.iecc.com/crenshaw
+cornell :: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided
+
+//repos
+https://github.com/rswier/c4
+https://github.com/lotabout/write-a-C-interpreter
+https://github.com/vigneshsrao/navarint
+https://paladin-t.github.io/my_basic
+
+//kitaplar
+https://dthain.github.io/books/compiler
+
+-----------------------------------
+https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree
+https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff
