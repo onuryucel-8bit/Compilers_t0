@@ -5,7 +5,7 @@
 
 #include "Lexer.h"
 
-#include "LibsLocal/magic_enum/magic_enum.hpp"
+#include "../../LibsLocal/magic_enum/magic_enum.hpp"
 
 class Interpreter
 {
